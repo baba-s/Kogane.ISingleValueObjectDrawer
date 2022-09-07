@@ -1,0 +1,18 @@
+{
+    "name": "Kogane.SingleValueObjectDrawer.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:645ee988aadb4022866f30c49c853b37"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
