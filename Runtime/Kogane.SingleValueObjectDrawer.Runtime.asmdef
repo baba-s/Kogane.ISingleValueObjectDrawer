@@ -1,3 +1,14 @@
-﻿{
-    "name": "Kogane.SingleValueObjectDrawer.Runtime"
+{
+    "name": "Kogane.SingleValueObjectDrawer.Runtime",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
 }
